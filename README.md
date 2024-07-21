@@ -9,13 +9,13 @@
  <div>
   <table>
     <thead>
-        <tr>
-            <th>단계</th>
-            <th>제목</th>
-            <th>설명</th>
-            <th>총 문제</th>
-            <th>풀이</th>
-        </tr>
+     <tr>
+      <th>단계</th>
+      <th>제목</th>
+      <th>설명</th>
+      <th>총 문제</th>
+      <th>풀이</th>
+     </tr>
     </thead>
     <tbody>
         <tr>
@@ -181,9 +181,7 @@
                                 <td><a href="https://www.acmicpc.net/problem/1001" target="_blank">윤년</a></td>
                                 <td>윤년을 판별하는 문제</td>
                                 <td>수학, 구현, 사칙연산</td>
-                               
-
- <td>51.745%</td>
+                                <td>51.745%</td>
                                 <td>✔</td>
                             </tr>
                             <tr>
@@ -348,9 +346,7 @@
         </tr>
         <tr>
             <td>21</td>
-            <td
-
-><a href="https://www.acmicpc.net/step/16" target="_blank">동적 계획법 1</a></td>
+            <td><a href="https://www.acmicpc.net/step/16" target="_blank">동적 계획법 1</a></td>
             <td>기초적인 동적 계획법 문제들을 풀어봅시다.</td>
             <td>16</td>
             <td>0</td>
@@ -502,9 +498,7 @@
             <td>8</td>
             <td>0</td>
         </tr>
-        <
-
-tr>
+        <tr>
             <td>43</td>
             <td><a href="https://www.acmicpc.net/step/35" target="_blank">세그먼트 트리</a></td>
             <td>구간 쿼리를 효율적으로 수행하는 자료구조를 배워 봅시다.</td>
