@@ -1,12 +1,13 @@
 # 백준 코딩테스트 스터디
 
-**※ 아직 스터디 진행 중입니다.**
+**※ 아직 작성 중입니다.**
 
 **※ 정답 비율은 2024년 07월 22일자를 기준으로 작성되었습니다. 실제 정답 비율은 아래 기입된 정보와 다를 수 있습니다.**
 
 <details markdown="1">
  <summary><h2>Step : <a href="https://www.acmicpc.net/step" target="_blank">백준 단계별로 풀어보기</a></h2></summary>
  <div>
+  <p><b>📆2024.07.01 ~ ing</b></p>
   <table>
     <thead>
      <tr>
