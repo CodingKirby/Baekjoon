@@ -1,11 +1,11 @@
 # 백준 코딩테스트 스터디
 
-**※ 아직 작성 중입니다.**
+**※ 아직 스터디 진행 중입니다.**
 
 **※ 정답 비율은 2024년 07월 22일자를 기준으로 작성되었습니다. 실제 정답 비율은 아래 기입된 정보와 다를 수 있습니다.**
 
 <details markdown="1">
- <summary><h2>Step : <a href="https://www.acmicpc.net/step">백준 단계별로 풀어보기</a></h2></summary>
+ <summary><h2>Step : <a href="https://www.acmicpc.net/step" target="_blank">백준 단계별로 풀어보기</a></h2></summary>
  <div>
   <table>
     <thead>
@@ -181,7 +181,9 @@
                                 <td><a href="https://www.acmicpc.net/problem/1001" target="_blank">윤년</a></td>
                                 <td>윤년을 판별하는 문제</td>
                                 <td>수학, 구현, 사칙연산</td>
-                                <td>51.745%</td>
+                               
+
+ <td>51.745%</td>
                                 <td>✔</td>
                             </tr>
                             <tr>
@@ -346,7 +348,9 @@
         </tr>
         <tr>
             <td>21</td>
-            <td><a href="https://www.acmicpc.net/step/16" target="_blank">동적 계획법 1</a></td>
+            <td
+
+><a href="https://www.acmicpc.net/step/16" target="_blank">동적 계획법 1</a></td>
             <td>기초적인 동적 계획법 문제들을 풀어봅시다.</td>
             <td>16</td>
             <td>0</td>
@@ -498,7 +502,9 @@
             <td>8</td>
             <td>0</td>
         </tr>
-        <tr>
+        <
+
+tr>
             <td>43</td>
             <td><a href="https://www.acmicpc.net/step/35" target="_blank">세그먼트 트리</a></td>
             <td>구간 쿼리를 효율적으로 수행하는 자료구조를 배워 봅시다.</td>
